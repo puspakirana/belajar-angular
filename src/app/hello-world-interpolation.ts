@@ -9,4 +9,5 @@ import { Component } from "@angular/core";
 export class HelloWorldUrlInterpolation {
     judul = "Hello World Interpolation"
     gambar = "assets/angular.png"
+    active = true
 }
